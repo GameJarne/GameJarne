@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning how to make games
 - 💞️ I’m looking to collaborate on nothing rn
 - 📫 How to reach me: via discord GameJarne#5099
+- I also have a youtube channel: https://youtube.com/GameJarne
 
 <!---
 GameJarne/GameJarne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
