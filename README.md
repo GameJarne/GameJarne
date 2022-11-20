@@ -1,6 +1,6 @@
-Hello I'm GameJarne!          
+Hello I'm GameJarne!         
 I'm a Minecraft Youtuber and a game developer.           
-Recently I've been learning blender and trying to get better at game dev.               
+I program in: C#, Python, C++ and Java.             
 https://youtube.com/GameJarne   
 My discord is: GameJarne#5099
 
