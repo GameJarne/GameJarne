@@ -1,5 +1,4 @@
 Hello I'm GameJarne!         
-I'm a Minecraft Youtuber and a game developer.           
 I program in: C#, Python, C++ and Java.             
 https://youtube.com/GameJarne   
 
