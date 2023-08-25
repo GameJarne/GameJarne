@@ -1,5 +1,5 @@
 Hello I'm GameJarne!         
-I program in: C#, C++ and Java.             
+I program in: C++, C# and Java. (primarily C++ now)          
 https://youtube.com/GameJarne   
 
 ![Anurag's GitHub stats](https://github-readme-stats-gamejarne.vercel.app/api?username=gamejarne&count_private=true&show_icons=true&theme=tokyonight)
