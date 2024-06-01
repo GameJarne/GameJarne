@@ -1,6 +1,5 @@
-Hello I'm GameJarne!         
-I program in: C++, C# and Java. (primarily C++ now)          
-https://youtube.com/GameJarne   
+Hello I'm Jarne!         
+I primarily program in C++ and I make games in Godot using GDscript.          
+[Youtube](https://youtube.com/GameJarne) **-** [Mastodon](https://mastodon.social/@jarnbit)
 
 ![Anurag's GitHub stats](https://github-readme-stats-gamejarne.vercel.app/api?username=gamejarne&count_private=true&show_icons=true&theme=tokyonight)
-[![Discord Presence](https://lanyard.cnrad.dev/api/481865428046446592)](https://discord.com/users/481865428046446592)
